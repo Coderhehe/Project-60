@@ -44,8 +44,15 @@ myfavplayer h2 {
 
 #stevenash {
     width: 300px;
+    transition: 0.2s;
+    border-width: 10px;
 }
 
 #chrispaul {
     width: 300px;
+    transition: 0.2s;
+    border-width: 10px;
+}
+#myinspiration img:hover {
+    transform: scale(0.9);
 }
